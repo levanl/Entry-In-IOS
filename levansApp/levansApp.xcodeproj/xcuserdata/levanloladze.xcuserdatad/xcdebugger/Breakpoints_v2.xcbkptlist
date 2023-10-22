@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B0B74569-6CBA-4295-9B5F-18EBAD95B65B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08FC3CA9-81E6-406B-B92A-DBE05D8B1699"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "levansApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "08FC3CA9-81E6-406B-B92A-DBE05D8B1699 - f0842bf76531432a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "levansApp.ViewController.calculableNum1.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "levansApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levanloladze/Documents/TBC%20IOS%20Development/%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98%20iOS-%E1%83%A8%E1%83%98/levansApp/levansApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "08FC3CA9-81E6-406B-B92A-DBE05D8B1699 - f6655a71cbe76f26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "levansApp.ViewController.calculableNum1.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "levansApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levanloladze/Documents/TBC%20IOS%20Development/%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98%20iOS-%E1%83%A8%E1%83%98/levansApp/levansApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "08FC3CA9-81E6-406B-B92A-DBE05D8B1699 - d436e41f72e6a7e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "levansApp.ViewController.calculableNum1.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "levansApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levanloladze/Documents/TBC%20IOS%20Development/%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98%20iOS-%E1%83%A8%E1%83%98/levansApp/levansApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "08FC3CA9-81E6-406B-B92A-DBE05D8B1699 - eec0b8a258b6db14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "levansApp.ViewController.calculableNum1.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "levansApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levanloladze/Documents/TBC%20IOS%20Development/%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98%20iOS-%E1%83%A8%E1%83%98/levansApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "08FC3CA9-81E6-406B-B92A-DBE05D8B1699 - d895e83c4d3cd2d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "levansApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; levansApp.ViewController"
+                  moduleName = "levansApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levanloladze/Documents/TBC%20IOS%20Development/%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98%20iOS-%E1%83%A8%E1%83%98/levansApp/levansApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "08FC3CA9-81E6-406B-B92A-DBE05D8B1699 - 8d1091672067dd90"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "levansApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;levansApp.ViewController&gt;"
+                  moduleName = "levansApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/levanloladze/Documents/TBC%20IOS%20Development/%E1%83%A8%E1%83%94%E1%83%A1%E1%83%90%E1%83%95%E1%83%90%E1%83%9A%E1%83%98%20iOS-%E1%83%A8%E1%83%98/levansApp/levansApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
